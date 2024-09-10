@@ -10,7 +10,7 @@ Barangay Documents Online Request System is a web-based system that aims to prov
 ## Development
 The development of the system was done using the PHP programming language and MySQL as its database. CSS as one of the most popular language for developing front-end frameworks for websites and web applications was used to design the system’s user interface. Furthermore, the system was composed of the integrated functions of the system admin and the barangay residents.
 ## Final Output
-![web-1](https://github.com/user-attachments/assets/0a2e3a31-4dc0-4016-b478-8266f641ab22)
+![web-1](https://github.com/user-attachments/assets/e7ad9b16-f2eb-4f3f-8f8d-2afde54798a0)
 ![web-1 1](https://github.com/user-attachments/assets/0f1780eb-ae0d-43a6-b722-804590655338)
 ![web-1 2](https://github.com/user-attachments/assets/61cc8e41-e706-4c56-b41b-832e62238a9c)
 ![web-1 4](https://github.com/user-attachments/assets/d66e0bc6-312e-445b-befc-123f222876f2)
